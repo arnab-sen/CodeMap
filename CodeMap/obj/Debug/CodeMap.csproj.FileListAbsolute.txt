@@ -2,12 +2,6 @@ C:\Projects\CodeMap\CodeMap\bin\Debug\CodeMap.exe.config
 C:\Projects\CodeMap\CodeMap\bin\Debug\CodeMap.exe
 C:\Projects\CodeMap\CodeMap\bin\Debug\CodeMap.pdb
 C:\Projects\CodeMap\CodeMap\obj\Debug\CodeMap.csprojAssemblyReference.cache
-C:\Projects\CodeMap\CodeMap\obj\Debug\MainWindow.g.cs
-C:\Projects\CodeMap\CodeMap\obj\Debug\App.g.cs
-C:\Projects\CodeMap\CodeMap\obj\Debug\CodeMap_MarkupCompile.cache
-C:\Projects\CodeMap\CodeMap\obj\Debug\CodeMap_MarkupCompile.lref
-C:\Projects\CodeMap\CodeMap\obj\Debug\MainWindow.baml
-C:\Projects\CodeMap\CodeMap\obj\Debug\CodeMap.g.resources
 C:\Projects\CodeMap\CodeMap\obj\Debug\CodeMap.Properties.Resources.resources
 C:\Projects\CodeMap\CodeMap\obj\Debug\CodeMap.csproj.GenerateResource.cache
 C:\Projects\CodeMap\CodeMap\obj\Debug\CodeMap.exe
